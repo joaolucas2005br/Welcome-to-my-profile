@@ -1,2 +1,3 @@
-# Welcome-to-my-profile
-Repositório com a finalidade de apresentar meu perfil, refletindo um pouco da minha personalidade através dos códigos e início de uma jornada.
+<p align="center">
+  <img src="software_enginner.png" alt="João Lucas Avatar" width="300"/>
+</p>
